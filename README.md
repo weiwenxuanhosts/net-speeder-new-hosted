@@ -6,6 +6,9 @@
 
 使用方法是
 wget https://codeload.github.com/weiwenxuanhosts/net-speeder-new-hosted-new/zip/master
+
+
+
 unzip master.zip解压
 
 CentOS 系统 64 位
